@@ -1,0 +1,12 @@
+{    
+    "utility_tower_detector_path": "weights/utility_tower_detector.pt",
+    "utility_tower_detector_conf": 0.15,
+    "video_source_main_camera": 1,
+    "video_source_second_camera": 2,
+    "to_russian_utility_towers": {
+        "0": "Рюмка",
+        "1": "Портал",
+        "2": "Одноцепная",
+        "3": "Двухцепная"
+    }
+}
