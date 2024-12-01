@@ -10,7 +10,8 @@
 ### Установка
 Скачайте репозиторий и перейдите в его директорию:
 ```
-git clone 
+git clone https://github.com/pitfisher/fic2024_demo.git
+```
 Создайте виртуальное окружение:
 ```bash
 python -m venv fic_demo_venv
@@ -24,4 +25,12 @@ python -m venv fic_demo_venv
 ```bash
 source ./fic_venv/bin/activate
 ```
-Перейдите
+Установите зависимости:
+```bash
+pip install -r requirements.txt
+```
+
+Запустите приложение:
+```bash
+streamlit run Главная.py
+```
