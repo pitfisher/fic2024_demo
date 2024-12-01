@@ -19,11 +19,11 @@ python -m venv fic_demo_venv
 Активируйте окружение:
 * Windows:
 ```bash
-.\fic_venv\Scripts\activate.bat
+.\fic_demo_venv\Scripts\activate.bat
 ```
 * Linux/Mac
 ```bash
-source ./fic_venv/bin/activate
+source ./fic_demo_venv/bin/activate
 ```
 Установите зависимости:
 ```bash
